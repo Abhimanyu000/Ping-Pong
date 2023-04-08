@@ -1,0 +1,30 @@
+.p{
+    width: 100%;
+    text-align: left;
+}
+
+.p h3{
+    display: inline;
+}
+
+.p button{
+    float: right;
+}
+
+.l{
+    font-size: 20px;
+}
+
+.w{
+    font-size: large;
+    text-align: left;
+}
+
+.foot{
+    bottom: 0;
+    position: sticky;
+    width: 100%;
+    line-height: 3;
+    background-color: blue;
+    color: aliceblue;
+}
