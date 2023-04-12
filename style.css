@@ -28,3 +28,11 @@
     background-color: blue;
     color: aliceblue;
 }
+
+canvas{
+    border-style: ridge;
+    border-radius: 10px;
+    border-width: 5px;
+    border-color: darkcyan;
+    box-shadow: 5px 5px 5px darkviolet;
+}
